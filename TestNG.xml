@@ -1,0 +1,7 @@
+<suite name = "TestSuite">
+	<test name ="TestGuru">
+		<classes>
+			<class name="com.qa.tests.TestScripts"/>
+		</classes>
+	</test>
+</suite>
